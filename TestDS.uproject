@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ADB50F90-4407-554B-C3D3-009ED5D31A43}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestDS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
